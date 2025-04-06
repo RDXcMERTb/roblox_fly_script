@@ -11,8 +11,8 @@ follow me for more free roblox cheats :3
 ```lua
 pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/lilmond/roblox_fly_script/refs/heads/main/latest.lua'))() end)
 ```
-- `t` - Toggle fly
-- `y` - Toggle invisible
+- `n` - Toggle fly
+- `m` - Toggle invisible
 
 ## Vehicle Version
 ```lua
